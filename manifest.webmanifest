@@ -1,0 +1,11 @@
+{
+  "name":"MATCHLAB COACH",
+  "short_name":"MatchLab",
+  "description":"Prywatne narzędzie trenera do analizy zawodników.",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#F6F4EF",
+  "theme_color":"#F6F4EF",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
